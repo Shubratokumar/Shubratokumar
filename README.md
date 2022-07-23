@@ -2,6 +2,9 @@
 A Frontend developer🎯 from Bangladesh.
 - 👨‍💻 Frontend Developer 
 - 📚 I love what I do.
+- 🔭 I’m currently working on MERN Stack Projects.
+- 🌱 I’m currently learning Next JS, Redux, React Native...
+- 😄 Pronouns: Shubrato
 
 
 **Languages:**  
