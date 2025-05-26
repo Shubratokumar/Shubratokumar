@@ -1,5 +1,5 @@
 ### Hi there, I'm Shubrato Kumar 👦,
-A Frontend developer🎯 from Bangladesh.
+A Frontend Developer 🎯 from Bangladesh.
 - 👨‍💻 Frontend Developer at GetBoarded Technologies Ltd. 
 - 📚 I love what I do.
 - 🔭 I’m currently working on MERN Stack Projects.
